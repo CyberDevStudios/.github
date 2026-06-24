@@ -13,9 +13,7 @@
 
 Right now we are building open tools for game developers, and there are great opportunities to contribute.
 
-- [Explore our repositories](https://github.com/orgs/CyberDevStudios/repositories)
 - [Check out Nova2d](https://github.com/CyberDevStudios/Nova2d) — our open source 2D game engine built in Lua
-- Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to report bugs or suggest features for any of our projects
 
 ---
 
