@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/fWvJJ3PY/logo-horizontal.png" alt="Cyber Dev Studios" width="200"/>
+  <img src="https://i.postimg.cc/fWvJJ3PY/logo-horizontal.png" alt="Cyber Dev Studios" width="800"/>
 
   Indie video game developer · Colombia
 
